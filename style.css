@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 30px;
+    background: #96b2cb;
+  }
+  
+  form {
+    margin: 20px 0;
+  }
+  
+  input {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    color:rgb(25, 149, 198);
+  }
+  
+  #weatherDisplay {
+    margin-top: 30px;
+    padding: 20px;
+    background-color:rgb(220, 211, 193);
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+    display: inline-block;
+  }
+  
